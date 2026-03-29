@@ -1,0 +1,623 @@
+--[ LURASHIELD PROTECTED ]--
+-- Obfuscation Layers: Custom VM, XOR Polymorphism, Multi-Encoding
+-- Build: 2026-03-29T10:37:41.879Z
+
+do local _IIlO1IO001lIOI = string.rep("YxZg", 3) end
+repeat until 714 ~= 1305
+local _1IIIll0l1IIl00 = (8437 * 8424 + 838) % 401 == 99
+do local _IIlIlI1IlOOIl1 = string.rep("FceM", 4) end
+local _llllOlll1l0I00 = bit32 and bit32.bxor(504, 44) or 334
+local _llO1OIIOl1lIOO = (function() local _ = 9638 * 1640 return _ end)()
+local _l01lI0IOIlllII = (function() local _ = 5571 * 8501 return _ end)()
+local _l1IOOlOII0lllI = (function() local _ = 7724 * 4176 return _ end)()
+do local _llIllIl0IIIII1 = string.rep("zX5D", 5) end
+local _01OlIIIlIIOlll = (function() local _ = 4765 * 2556 return _ end)()
+local _l1OI0IIlIIOIIl = (4905 * 3918 + 45) % 487 == 95
+local _110l1l01II0lIl = (2256 * 7086 + 462) % 875 == 14
+local _010001IOl1lIlO = (6328 * 8979 + 244) % 698 == 96
+local _Ill0Oll01l00ll = (function() local _ = 7532 * 9835 return _ end)()
+repeat until 579 ~= 9392
+do local _I11IIIOl1llOlO = string.rep("qLFx", 4) end
+local _1I11Il1IIl0IOI = (1849 * 2210 + 743) % 943 == 21
+local _l01I01lO0l0IIl = (2109 * 6216 + 429) % 189 == 5
+do local _IlI00IlIl1OlOl = string.rep("83kc", 5) end
+local _1I1Ol0OIOI1l11 = (315 * 5369 + 875) % 297 == 15
+local _llll0l00OlI0ll = (function() local _ = 9105 * 8306 return _ end)()
+do local _OO10OlIOl0lll1 = string.rep("HkMq", 5) end
+repeat until 92 ~= 4085
+local _1OI1OlOl0OllIO = (3376 * 2261 + 148) % 830 == 53
+local _1Ol1O1IlII0OlI = (function() local _ = 4890 * 8550 return _ end)()
+do local _O01lI111lIIIOO = string.rep("hjKH", 3) end
+if 0 == 8102 then _IIlII0OOlIOOOI = "tLqgccAY" end
+local _lO000lO0lIIIll = (function() local _ = 9432 * 7617 return _ end)()
+local _OllI0II011lIlO = (610 * 792 + 798) % 401 == 11
+local _OIIllllO0O0OlI = (function() local _ = 6815 * 7086 return _ end)()
+do local _IO11IIl0OOIIIO = string.rep("oa0r", 2) end
+do local _ll110O1III10Il = string.rep("IlvZ", 4) end
+do local _lIlIlI0lOO0IlI = string.rep("isgA", 2) end
+local _1IOIl00ll01II1 = (3159 * 7184 + 242) % 656 == 11
+local _IllIlIIIlIll0l = (function() local _ = 7504 * 9727 return _ end)()
+if false then _O1lOIIOOOlI0OO = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+do local _OI1lO111Il10OI = string.rep("B4LD", 5) end
+do local _1IlIl1IIOII1I1 = string.rep("MTpA", 4) end
+do local _lIlllI1lIO1l00 = string.rep("i5gj", 3) end
+do local _l11IIOIll1ll0l = string.rep("u6mr", 1) end
+local _I1lO00IIlIIl0I = bit32 and bit32.bxor(279, 40) or 460
+do local _OOI0IlI1IIIIlI = string.rep("5gzq", 4) end
+repeat until 0 ~= 3384
+local _IIlllIl01ll1lI = (function() local _ = 1099 * 1621 return _ end)()
+local _0lO1O01OlO1O1l = (572 * 5480 + 225) % 208 == 22
+repeat until 97 ~= 3638
+do local _I0l0llOIlllI0I = string.rep("jBf1", 5) end
+do local _IIIIOII0II01O0 = string.rep("TRQX", 5) end
+local _OlIOIlOOO1l010 = (function() local _ = 2634 * 8388 return _ end)()
+repeat until 0 ~= 7851
+do local _lIIlIlII0lll1O = string.rep("oe0M", 4) end
+repeat until 728 ~= 8937
+local _OII1lIlll0IIO0 = (function() local _ = 8279 * 5436 return _ end)()
+local _l1lIl1IIlIlIlO = (9857 * 4552 + 480) % 611 == 26
+if false then _0Ill1lI0IIOlIl = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+do local _l0IIOlll0llll0 = string.rep("sF19", 4) end
+do local _lIOlI1OIl0IIIl = string.rep("8qyL", 5) end
+do local _l1ll1ll0OOOl0l = string.rep("txoj", 1) end
+if false then _llIIlIll010O11 = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+do local _0111lIOIlIIIll = string.rep("0UWj", 1) end
+local _III0II0ll000lI = (function() local _ = 5701 * 8730 return _ end)()
+local _O0IlIll10Ill1l = (6357 * 5605 + 644) % 593 == 56
+do local _I11lOllII1101l = string.rep("q2Px", 5) end
+do local _O00OI1I0I0l0lI = string.rep("yKOz", 3) end
+do local _lI11l1lOIOllII = string.rep("cJ2z", 2) end
+local _l1IlIll1IlllIO = bit32 and bit32.bxor(179, 59) or 890
+local _1IlIII00II0lll = (983 * 4849 + 938) % 356 == 40
+if false then _llllIlI0IlIlll = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+if false then _01OIII11I1O1Il = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+do local _01IllIIIOIOlII = string.rep("oSr7", 4) end
+if 0 == 6843 then _lIllO1I01OII1O = "pCEiZfMG" end
+local _1lI0lOII1IOIII = (2623 * 2400 + 561) % 156 == 1
+local _0Il0I0lO1l0IlI = (function() local _ = 7236 * 8675 return _ end)()
+do local _0I10I01III1lI1 = string.rep("P0kb", 4) end
+do local _IO0O1lll110Ol0 = string.rep("ffyi", 1) end
+repeat until 0 ~= 4888
+if 0 == 8290 then _l10I0l011lIO00 = "kgF9OfoS" end
+local _1IOlII1OI1I1lI = bit32 and bit32.bxor(707, 58) or 141
+if 0 == 4102 then _1ll1111l0II0ll = "rw4QVXQq" end
+do local _llI11IOOI010Ol = string.rep("KAaW", 4) end
+if false then _l0I0l1II11l1ll = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+local _IlO10lIOlIlIl0 = (function() local _ = 5765 * 8746 return _ end)()
+if false then _ll00llOOIII1OO = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+if 0 == 2637 then _OOl1Il0Il0IllI = "pI1d7G4a" end
+do local _0Ol1IO0111IIl1 = string.rep("qCS7", 4) end
+local _1I100IOI0Illll = (9302 * 7878 + 974) % 319 == 17
+do local _lIll1O1Ill1lO0 = string.rep("1XvH", 5) end
+repeat until 184 ~= 2326
+if 0 == 5418 then _O0IlIOIlO0l1II = "gG85suAb" end
+repeat until 0 ~= 480
+do local _lO0ll00OIl0OIO = string.rep("Y3DA", 5) end
+do local _IIl11l1lII1I11 = string.rep("gFgY", 3) end
+repeat until 481 ~= 194
+repeat until 415 ~= 3154
+local _lOlI1I0l0lllll = (function() local _ = 1231 * 7202 return _ end)()
+do local _1lllIO0IIl1I1I = string.rep("K0nx", 2) end
+local _lIlIIII10lIllO = bit32 and bit32.bxor(570, 37) or 846
+do local _lOlIOIIO1l1lll = string.rep("HXFx", 2) end
+local _IOIl1II0Ill01O = bit32 and bit32.bxor(473, 75) or 128
+do local _O10l11ll011I0I = string.rep("qkFn", 2) end
+repeat until 923 ~= 1817
+local _lII0Ol0II0I1ll = (function() local _ = 4646 * 756 return _ end)()
+do local _10llI101l11OIl = string.rep("zuuy", 5) end
+repeat until 0 ~= 7244
+repeat until 210 ~= 504
+do local _lIl1lIIlI1l01I = string.rep("jKff", 3) end
+if false then _ll0010II0ll0I1 = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+do local _lOOOIl01lOllIl = string.rep("mJcR", 2) end
+repeat until 286 ~= 6820
+local _lIIIlIlllOIlII = (5031 * 3873 + 122) % 382 == 99
+local _l0OOIOl111ll1I = (function() local _ = 9588 * 5516 return _ end)()
+local _lIllIl0OOOIIl0 = (2785 * 9162 + 573) % 720 == 19
+local _I0IOlOIOIlIOOI = (function() local _ = 6006 * 6944 return _ end)()
+repeat until 0 ~= 4526
+if 0 == 3774 then _II0Il1llOI010I = "c5A32qEh" end
+if 0 == 7684 then _1I1II1OIlll010 = "VHmMsRsr" end
+if 0 == 7770 then _lI000Olll0lII0 = "uBHoYTcw" end
+local _ll1I1OI1lOII1l = (7723 * 1067 + 412) % 884 == 45
+do local _1l1IIlO1IIlIII = string.rep("GLm3", 1) end
+repeat until 529 ~= 6295
+repeat until 302 ~= 7220
+if 0 == 9416 then _0lI11IlIllI0I1 = "x0capzWh" end
+local _1llll0IIll1lll = (function() local _ = 1521 * 7992 return _ end)()
+do local _IlIlO1I01lIOlI = string.rep("z3sZ", 5) end
+local _1lI1ll0IO00O1I = (1155 * 6921 + 184) % 589 == 16
+local _0lllll01I1111l = bit32 and bit32.bxor(65, 42) or 784
+if 0 == 3772 then _O10ll1I11IOII0 = "qP6uHmiq" end
+do local _0OI0lIlll1IlII = string.rep("22z9", 2) end
+if 0 == 5053 then _11I0l00l1I1IlO = "qEgX7avx" end
+repeat until 831 ~= 1725
+local _lOO0Il0Il00IIl = (function() local _ = 3927 * 7235 return _ end)()
+do local _IlllO1l1l0IIl0 = string.rep("1YnT", 1) end
+local _lIllO0IIO00I0O = (function() local _ = 713 * 563 return _ end)()
+do local _lO1ll1011Il00l = string.rep("DZlR", 2) end
+if 0 == 2514 then _0OIIl111I1I1II = "oZmtdqSs" end
+local _lIOII1lOl10l00 = (3068 * 4873 + 788) % 226 == 26
+local _O0OI0OOII00OOI = (function() local _ = 8131 * 2954 return _ end)()
+do local _IIl00110l0lOlO = string.rep("8757", 3) end
+local _0lIOlIIlIl0l1I = (6222 * 3154 + 497) % 1025 == 44
+do local _0IlOOIII0I1I00 = string.rep("b026", 4) end
+do local _III0lII001I100 = string.rep("yW1q", 3) end
+if 0 == 4538 then _00IlI1l11ll0II = "ScFve5xP" end
+do local _O00lOOlIOlIlOI = string.rep("VkYw", 5) end
+local _0Il01l0IOI10OI = bit32 and bit32.bxor(627, 68) or 464
+local _lIO1IOlI0OlII1 = (function() local _ = 4905 * 5922 return _ end)()
+if 0 == 3849 then _O0Ol1OllIOl1I1 = "KsoUTExr" end
+local _II0Il0IlIl0IIl = (function() local _ = 1309 * 7203 return _ end)()
+do local _Ol0O1O10lOI10l = string.rep("3fq7", 3) end
+local _1Il0llllOll01O = (6430 * 1967 + 189) % 162 == 77
+do local _0O0lIllIO0l0II = string.rep("w7fw", 5) end
+do local _OI1lO00l1l0Il0 = string.rep("V2ay", 2) end
+local _l1lI1IOl0ll1l0 = (5670 * 7484 + 300) % 327 == 77
+do local _lIlIl10OlIlII0 = string.rep("lSbc", 5) end
+do local _l0OIlIl0l1lIll = string.rep("6aFd", 3) end
+repeat until 0 ~= 5711
+if 0 == 3286 then _111lI0ll0Oll0l = "vdWkPzp9" end
+if false then _lI1lll01lO0O1I = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+local _O0IllIOI0l000I = bit32 and bit32.bxor(694, 55) or 707
+do local _IOOllIOlllIIIl = string.rep("Z6tX", 3) end
+local _IlIl1l11lIlIlI = (8158 * 8232 + 712) % 865 == 84
+do local _IIl11lIl1Il1lI = string.rep("YWv6", 2) end
+local _lllI0OIOOO01l0 = bit32 and bit32.bxor(691, 44) or 338
+repeat until 0 ~= 8212
+do local _I0OIIlIl0lOII1 = string.rep("Rm1p", 1) end
+do local _IO0000Ill0II0l = string.rep("Nonv", 2) end
+local _I000Il10OI1ll1 = (1338 * 2347 + 742) % 378 == 60
+local _101Il01IlIIl01 = bit32 and bit32.bxor(479, 43) or 206
+local _1I00IllOIllll1 = bit32 and bit32.bxor(841, 32) or 270
+do local _IO01O11II0Il0l = string.rep("comL", 3) end
+if 0 == 4084 then _0llI1lOl1llO1I = "2QPt5UCM" end
+local _1ll1I1IO0O1Il0 = (2432 * 6836 + 298) % 798 == 26
+do local _OIIlI1Ill00I1l = string.rep("xnGy", 2) end
+local _I011lIII1ll0l1 = (6658 * 1447 + 892) % 500 == 13
+local _Ill11l0l0l001O = bit32 and bit32.bxor(863, 92) or 796
+if 0 == 5220 then _0IlIO1Ol0IOI0I = "4Uxdn70c" end
+local _OlOII10llI1001 = (1154 * 4009 + 631) % 532 == 1
+if 0 == 2219 then _111IIOl1O1OIIO = "j6F8CyWp" end
+if 0 == 3211 then _O10I1ll0ll1IlI = "fT39UJ0B" end
+local _00l0I1lIO1lIIl = bit32 and bit32.bxor(14, 57) or 602
+local _lIlIlO1IIl1I1O = (3583 * 481 + 762) % 669 == 81
+if false then _0lI1l1lO0lI0II = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+local _1llIll10l0OO1I = (9148 * 3214 + 561) % 918 == 16
+local _IIl0IIIlI10III = bit32 and bit32.bxor(385, 83) or 997
+local _O1lI00lO0IIO0l = (function() local _ = 7511 * 1594 return _ end)()
+local _1lO10l0llIIIl1 = (function() local _ = 5629 * 9497 return _ end)()
+repeat until 0 ~= 2099
+do local _IlIIO1I11llOOl = string.rep("zgV1", 1) end
+do local _lI0llO001OlIll = string.rep("eIV4", 4) end
+do local _IlIIO0II11I0OO = string.rep("hqIN", 5) end
+repeat until 0 ~= 3953
+if 0 == 8878 then _OO0IIl0IOlIOIl = "jPV3W4RL" end
+local _lIl1Il001IIlI1 = (5171 * 5287 + 472) % 192 == 39
+repeat until 32 ~= 5689
+repeat until 0 ~= 6030
+repeat until 324 ~= 7868
+do local _0II0lI1Il001ll = string.rep("Fs4R", 4) end
+local _0II10lIl00I0l1 = bit32 and bit32.bxor(239, 5) or 428
+do local _I0I1OI010II0lI = string.rep("vMBA", 2) end
+repeat until 525 ~= 2600
+do local _OOIlOll10lIll0 = string.rep("XFRe", 2) end
+local _I0IOOl00O0lOIO = (function() local _ = 254 * 546 return _ end)()
+repeat until _lO0l10IIOOII0l ~= 138684
+local _l0ll0I0I0lII1O = (function() local _ = 773 * 834 return _ end)()
+repeat until _ll011lIIOll0l0 ~= 644682
+local _I00IllII1Ill1l = (function() local _ = 666 * 1058 return _ end)()
+repeat until _I0I1II10OOI10O ~= 704628
+local _11ll1OllllOlll = (function() local _ = 994 * 570 return _ end)()
+repeat until _l0Il1I011OlI01 ~= 566580
+local _1lII10OIlOOlII = (function() local _ = 1042 * 418 return _ end)()
+repeat until _lO0lI00II10lI0 ~= 435556
+local _11OOl10OIl10l1 = (function() local _ = 500 * 789 return _ end)()
+repeat until _lOOl00lOl110lO ~= 394500
+local _ll1lIOI0llOO0l = (function() local _ = 200 * 684 return _ end)()
+repeat until _lOIlO0I10IlIIl ~= 136800
+local _llOOl1Il10lI1l = (function() local _ = 892 * 914 return _ end)()
+repeat until _lIOIII0lII0lll ~= 815288
+local _Il0ll0l1llIIII = (function() local _ = 448 * 522 return _ end)()
+repeat until _OOIlll0IIlIIIl ~= 233856
+local _lIOlIl01lll0I0 = (function() local _ = 676 * 1009 return _ end)()
+repeat until _1lIOIIO0I1lO0l ~= 682084
+local _Illl0IOllIO000 = (function() local _ = 695 * 799 return _ end)()
+repeat until _llIOI0IllOlI1l ~= 555305
+local _lIO1011OlIO0I1 = (function() local _ = 171 * 515 return _ end)()
+repeat until _IO1IIIlI10lOlO ~= 88065
+local _llII1O1llO0l0I = (function() local _ = 129 * 292 return _ end)()
+repeat until _0l0lIIl1lOIIIO ~= 37668
+local _IIOI0lI0l1l1l1 = (function() local _ = 157 * 914 return _ end)()
+repeat until _0Il1IlI1Ol1lIO ~= 143498
+local _l11Ol0IllOIIl0 = (function() local _ = 942 * 724 return _ end)()
+repeat until _IIOlIIlIIl1Ill ~= 682008
+local _Il01lI1lll0l0O = (function() local _ = 1079 * 198 return _ end)()
+repeat until _IO0I1I001000l1 ~= 213642
+local _0I0IIlll01lOlO = (function() local _ = 709 * 120 return _ end)()
+repeat until _11IIOllIl11IO0 ~= 85080
+local _IOIOlll10lIIll = (function() local _ = 129 * 804 return _ end)()
+repeat until _IIIIll0lIIIlIl ~= 103716
+local _1llI1IIO0llIl1 = (function() local _ = 304 * 456 return _ end)()
+repeat until _0IllI1Ol111lIl ~= 138624
+local _lI0II1Il10IO1l = (function() local _ = 240 * 210 return _ end)()
+repeat until _lIIIll0O1lOOO1 ~= 50400
+local _IllI11I0l0Ol11 = (function() local _ = 966 * 602 return _ end)()
+repeat until _lll01lIOllllI0 ~= 581532
+local _l0IlOOOI10I01l = (function() local _ = 380 * 706 return _ end)()
+repeat until _10lII1IIl1ll01 ~= 268280
+local _0IllII1OlI0Ill = (function() local _ = 657 * 685 return _ end)()
+repeat until _IOl1IOll00IlII ~= 450045
+local _OIlO0IIlllOll1 = (function() local _ = 495 * 1021 return _ end)()
+repeat until _0lOlOO0I0OlI0I ~= 505395
+local _lIOO00II1O1Il0 = (function() local _ = 519 * 577 return _ end)()
+repeat until _00llIO1I1II1OO ~= 299463
+local _lO0OIIOO1I0l1O = (function() local _ = 1039 * 334 return _ end)()
+repeat until _Il1ll0Il1l010l ~= 347026
+local _I1lIIOIOl0I1II = (function() local _ = 966 * 813 return _ end)()
+repeat until _1lO0lI1lIIIl01 ~= 785358
+local _Il0OIlll0Il0l0 = (function() local _ = 388 * 796 return _ end)()
+repeat until _Ol01OlOlI1ll0I ~= 308848
+local _OOIlIl1ll1IIll = (function() local _ = 514 * 982 return _ end)()
+repeat until _OIl1IOlIlOOO1l ~= 504748
+local _lI0ll0O01Ol0O1 = (function() local _ = 190 * 669 return _ end)()
+repeat until _Il1Il0lOIII01I ~= 127110
+local _OI100lIIl0I11O = (function() local _ = 321 * 874 return _ end)()
+repeat until _0IIl01l011llI1 ~= 280554
+local _O10IO01lIllOII = (function() local _ = 531 * 301 return _ end)()
+repeat until _l0I1II0lII1Il1 ~= 159831
+local _IOl0l1Ol1IlO0I = (function() local _ = 378 * 480 return _ end)()
+repeat until _OlOII1l1lO0II1 ~= 181440
+local _OllIl0O1II0001 = (function() local _ = 792 * 647 return _ end)()
+repeat until _l0IOIO0lIll0lI ~= 512424
+local _I1llll1l1lOlIO = (function() local _ = 461 * 826 return _ end)()
+repeat until _l0lOII1llIIOlO ~= 380786
+local _IIll0IOl01I0OO = (function() local _ = 799 * 1071 return _ end)()
+repeat until _lOlIl1llI1lI10 ~= 855729
+local _0IlOIOIlI0l0O1 = (function() local _ = 209 * 216 return _ end)()
+repeat until _1Il110II10IOIl ~= 45144
+local _0IO1O1IOl0llII = (function() local _ = 902 * 1089 return _ end)()
+repeat until _l1IOlIIl1OllI1 ~= 982278
+local _0IIOII1lOllII0 = (function() local _ = 242 * 859 return _ end)()
+repeat until _lI1l0Ill1IIlII ~= 207878
+local _I1l00IIlOOll0O = (function() local _ = 384 * 857 return _ end)()
+repeat until _1IIl1l1llll0Il ~= 329088
+local _II1IIO0l0l00ll = (function() local _ = 766 * 587 return _ end)()
+repeat until _IOlIl1III000l1 ~= 449642
+local _1II0IllII1l1O1 = (function() local _ = 982 * 699 return _ end)()
+repeat until _0I1OIIlI1l0llI ~= 686418
+local _OIlll0IlIlO0lI = (function() local _ = 1041 * 638 return _ end)()
+repeat until _llI01lII00IOlO ~= 664158
+local _ll00IlIlOllIll = (function() local _ = 648 * 656 return _ end)()
+repeat until _III1I1IlllIIl0 ~= 425088
+local _II00Ill0lO1IOl = (function() local _ = 692 * 937 return _ end)()
+repeat until _ll1llI1lIOl11I ~= 648404
+local _lllOOIl1Olllll = (function() local _ = 753 * 148 return _ end)()
+repeat until _l01IlOI1ll1Il0 ~= 111444
+local _0OIIlllIIll0IO = (function() local _ = 825 * 988 return _ end)()
+repeat until _1OlIl1IlIOIIl0 ~= 815100
+local _1II1O01lII1lIO = (function() local _ = 547 * 532 return _ end)()
+repeat until _ll0l1lOlO0l0Il ~= 291004
+local _I0III1IlOl01l1 = (function() local _ = 545 * 1017 return _ end)()
+repeat until _0OIOO0lOII11II ~= 554265
+local _lOI0l0II11IO1l = (function() local _ = 157 * 194 return _ end)()
+repeat until _1lOIl0llOlIlO0 ~= 30458
+local _OIl1IIlI1Ill0III1lI1lO11={
+[0]={250,203,218,161},
+[1]={150,187,159,171,96,96,105,69,90,35},
+[2]={249,205,171,129,186,158,143,111,112,69},
+[3]={135,185,136,132,119,114,120,75,67},
+[4]={159,134,152,109,117,126,94},
+[5]={8,48,21,16,239,227,244,194,215,181},
+[6]={61,239,253,239,201,219,161,170},
+[7]={153,151,113,117,115,94},
+[8]={169,138,145,113},
+[9]={241,255,253,222,216},
+[10]={167,129,158,145},
+[11]={152,140,119,123,113,75},
+[12]={255,193,215,177},
+[13]={24,13,231},
+[14]={40,52,48},
+[15]={55,53,8,28,8},
+[16]={162,168,132,155,141,127},
+[17]={202,164,182,144,159,157,105,107},
+[18]={196,210,185,163,150,152,144,108},
+[19]={155,133,121,115},
+[20]={79,44,34,14,21,9,235,227,197,211,210,174},
+[21]={243,196,218,214,173,161,131,155,157,107,122,70},
+[22]={42,4,5,24,233,237},
+[23]={72,38,35,18,11,15},
+[24]={20,234,243,251},
+[25]={184,142,143,159,123,97,80,70,82,46},
+[26]={54,48,1,1,22},
+[27]={208,176,189,179,155},
+[28]={15,228,224,241},
+[29]={151,134,104,96,111},
+[30]={48,241,230,239,255,220,180,165,137,142,159},
+[31]={157,183,190,176,78,118,70,93,91,41},
+[32]={145,187,186,76,75,121,74,89,39,53},
+[33]={144,150,120,42,20},
+[34]={239,239,193,210,164,188},
+[35]={22,15,229,250,215,197,204,162,182,130},
+[36]={147,131,151,127,125,76,10},
+[37]={206,166,165,131,140,151},
+[38]={184,135,155,97,110,104},
+[39]={182,130,138,99,97,84},
+[40]={53,49,12,1,13,237},
+[41]={11,234,224,235},
+[42]={48,15,31,18,248},
+[43]={252,201,208,170},
+[44]={240,252,216},
+[45]={160,145,159,142},
+[46]={239,195,206},
+[47]={54,8,19},
+[48]={36,58,5,94,76},
+[49]={63,31,4},
+[50]={218,223,173},
+[51]={129,128,143},
+[52]={77,39,61},
+[53]={227,255,197,220,170,191},
+[54]={249,249,203,214,208,161,170,131,150,100},
+[55]={5,10,8,239,243,205,198},
+[56]={153,146,112,119,123,69,78},
+[57]={191,128,134,146,105,109,71,71,33,47,54,2},
+[58]={231,243,219,196},
+[59]={224,197,193,223,164,160},
+[60]={169,166,145,138,142,125},
+[61]={28,227,245,202,214,163,185,189,134,134,99,111,124,77},
+[62]={247,207,203,211,171,177},
+[63]={230,248,197,213,216,162,180,128},
+[64]={222,201},
+[65]={18,12,34,38,210,199,212,230},
+[66]={233,248,214,222,203,191,177,139,151},
+[67]={94,56,50,5,5,27},
+[68]={219,211,176,165,176,143},
+[69]={214,213,172,186,135},
+}
+
+local _IIlOII10lIO1011Il0OI=199
+local _llOIIOlO1O01O10Ill1l=242
+local _0IIIl1l01ll1I1IlO1ll=193
+local _ll00O01I1llllIIIIIOI=238
+local _Ill000l0l0l0I0IIlI0I=171
+local _0l1IIIIl11I011llI0l0=290
+local _I0II0I1I0OII1l010Il1=203
+local _10llIlIllO1Oll1ll001=141
+local _I1Il0IIOllIl0II0II0I=176
+local _IOl1I0IIIlOIO111OlOl=209
+
+local function _0lI00OII10l011IO1O(_d)
+local _b64="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz01234567+/"
+local _r={}
+local _buf=0
+local _bits=0
+_d=_d:gsub("[^A-Za-z0-9+/=]","")
+for _i=1,_d:len() do
+local _c=_d:sub(_i,_i)
+if _c=="=" then break end
+_buf=(_buf<<6)|_b64:find(_c,true)-1
+_bits=_bits+6
+if _bits>=8 then
+_bits=_bits-8
+_r[#_r+1]=(_buf>>_bits)&0xff
+end
+end
+return _r
+end
+
+local function _0O11IlOl11l0II1O(_enc,_key)
+local _dec={}
+for _i=1,#_enc do
+_dec[_i]=bit32.bxor(_enc[_i],bit32.band(_key+((_i-1)*7),255))
+end
+return _dec
+end
+
+local _lIOlOIIllO1I10 = (3221 * 967 + 915) % 853 == 58
+repeat until 857 ~= 1216
+repeat until 0 ~= 2068
+do local _OllI101IlO11IO = string.rep("IJsW", 2) end
+repeat until 73 ~= 2776
+local _I0Ol1OOOl0OOl0 = (function() local _ = 6139 * 5953 return _ end)()
+do local _ll1lIOI100llII = string.rep("ScTi", 1) end
+do local _IlIOIII1IOlI1I = string.rep("htcj", 5) end
+repeat until 233 ~= 6886
+if 0 == 9306 then _OlIllIOOl00IlO = "zG70VHfN" end
+if 0 == 1078 then _10OlI00OlO11ll = "eLvBrcj8" end
+do local _Il10I0II10l0ll = string.rep("MeSs", 5) end
+do local _OlIll0I0010OI1 = string.rep("asv0", 2) end
+local _II0lOlIOOOO0lO = bit32 and bit32.bxor(551, 52) or 236
+if 0 == 9965 then _IIOlIl0OOO0I1I = "a1Pa52Kj" end
+local _0ll1lllIII1lll = (2963 * 9077 + 646) % 497 == 53
+local _0Il0llII0IIlIO = bit32 and bit32.bxor(435, 26) or 407
+local _lIIlOl1I1lO111 = bit32 and bit32.bxor(203, 79) or 830
+if 0 == 148 then _I0l1Illll00IlO = "fnbBALNq" end
+local _IlllI0llIlIlIl = (function() local _ = 7764 * 643 return _ end)()
+do local _I000l1I11llIIl = string.rep("yI5B", 4) end
+do local _1llO0OIIOlllO0 = string.rep("iMWj", 2) end
+if false then _IIOlO0lIIIOOOI = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+local _lOI1llO1llllI1 = (function() local _ = 6135 * 156 return _ end)()
+local _Il0IOOO1lIllll = (8357 * 392 + 366) % 868 == 83
+do local _l1IllOIlII0l10 = string.rep("06ou", 1) end
+local _lO0l1IO1I1O0I0 = (3380 * 2940 + 595) % 273 == 9
+repeat until 273 ~= 2461
+if false then _O1OOlIlII1O1OO = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+local _IOl1lOlIIIll0l = bit32 and bit32.bxor(13, 72) or 832
+if false then _IOI1IlIIIIOIll = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+local _00I0O11llOl1I1 = (function() local _ = 3311 * 8933 return _ end)()
+if false then _IlIl1lIlO0Illl = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+local _IllI010IlllII0 = (9398 * 9964 + 339) % 1084 == 79
+local _l1IOI1ll11lIll = (function() local _ = 8229 * 1108 return _ end)()
+repeat until 965 ~= 7127
+if false then _lO11IIllIIOlIO = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+local _II0IIllIlIllO0 = bit32 and bit32.bxor(967, 30) or 284
+repeat until 0 ~= 8029
+repeat until 0 ~= 266
+local _Il1lIOI1O00O1I = (function() local _ = 1760 * 8667 return _ end)()
+local _llIlOl0O001II1 = (7521 * 239 + 966) % 753 == 1
+repeat until 0 ~= 316
+do local _II00lIOll0IOOI = string.rep("kTAo", 3) end
+if false then _IlOIO0lIlI1l0I = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+do local _1I01lI0I1l11IO = string.rep("ek0O", 4) end
+repeat until 61 ~= 8123
+if 0 == 6595 then _0IOlllOIl000l1 = "GgWlCnbo" end
+local _00OllIlllIOI0l = (1681 * 4088 + 309) % 500 == 91
+repeat until 0 ~= 911
+local _lIO0OI1OlOIIII = bit32 and bit32.bxor(429, 96) or 709
+if false then _OlIlII1Ol010lI = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+if 0 == 2032 then _IOIIOl0IlI001l = "ObK4DRDq" end
+do local _IIIIlllIll1I0l = string.rep("aZLu", 3) end
+local _l110lOIl1IIlll = (function() local _ = 1886 * 2594 return _ end)()
+if false then _00O1lI0lll00l1 = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+do local _IlI1IlOI0l1OIl = string.rep("hZRs", 3) end
+local _OOl0Il0O10IllI = (function() local _ = 1323 * 3717 return _ end)()
+repeat until 697 ~= 5888
+local _IIIOl0IIO1lI0O = (3738 * 7603 + 557) % 539 == 58
+do local _IOOIIIIIII0l00 = string.rep("HuqW", 5) end
+local _Il0llllOlIlOIl = (6625 * 3751 + 606) % 169 == 2
+repeat until 763 ~= 1416
+local _00IO1ll10IllIO = (function() local _ = 5193 * 7844 return _ end)()
+repeat until 0 ~= 9412
+do local _I1IOl0II1IO0II = string.rep("rjTK", 1) end
+do local _0OIl01Il1IO0l1 = string.rep("iSg1", 3) end
+do local _I110Ill1O00Ill = string.rep("38k9", 2) end
+local _I1lIlIl1lI0lIO = (function() local _ = 8912 * 1745 return _ end)()
+do local _O0llIIlIOI0lII = string.rep("RyhK", 2) end
+local _llIIO0l0lIl1II = bit32 and bit32.bxor(130, 47) or 449
+repeat until 0 ~= 7871
+local _010llllO0lOIII = (function() local _ = 9194 * 2057 return _ end)()
+do local _ll110O1l0lIIll = string.rep("vutD", 2) end
+do local _001I01ll0lOO0I = string.rep("V30m", 5) end
+repeat until 433 ~= 3021
+if false then _0IIllOI1IIIIII = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+local _1OlIO0OIIlll1I = (function() local _ = 4125 * 8879 return _ end)()
+local _lIl1I1lI0ll00I = bit32 and bit32.bxor(465, 83) or 101
+do local _ll0II0OI1O0OII = string.rep("lLZN", 3) end
+do local _0ll0I0l0I0O0Il = string.rep("GViL", 5) end
+local _1Ol01llI0l1lI0 = bit32 and bit32.bxor(839, 56) or 458
+do local _1lIIO1lO0I1I0l = string.rep("Mq7G", 4) end
+local _0lI01Il0IOllI0 = (function() local _ = 9611 * 1906 return _ end)()
+if false then _OlOl01lOO0II0l = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+local _IOI1OlOlO01l0I = (function() local _ = 865 * 1222 return _ end)()
+local _IIl10IO0ll1lO1 = (5859 * 722 + 155) % 1059 == 22
+repeat until 0 ~= 5783
+do local _IllOIO0I0IOO0I = string.rep("ci0C", 3) end
+local _OI000IIIIIIO01 = (5956 * 1746 + 410) % 859 == 7
+local _IlIO1ll0I00llO = (9531 * 7179 + 364) % 890 == 6
+if false then _10IIllllll1IlI = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+repeat until 0 ~= 2143
+do local _1l0I0IIlO1l0I0 = string.rep("V7oD", 3) end
+local _0llIIlI1Ol01I0 = (function() local _ = 7166 * 3349 return _ end)()
+repeat until 246 ~= 4912
+repeat until 0 ~= 4173
+local _0I0lOO0O01IOlI = (331 * 5743 + 687) % 813 == 8
+local _lII0IIOI0OI0l1 = bit32 and bit32.bxor(477, 33) or 716
+if false then _IIlll1I1lllOOI = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+local _lllIlIIIlIIllll=_0lI00OII10l011IO1O((function()local _k=136;local _d={210,164,248,246,233,141,239,148};local _r="";for _,_b in ipairs(_d)do _r=_r..string.char(bit32.bxor(_b,_k))end;return _r end)()..(function()local _k=14;local _d={92,108,113,84,109,100,110,44};local _r="";for _,_b in ipairs(_d)do _r=_r..string.char(bit32.bxor(_b,_k))end;return _r end)()..(function()local _k=183;local _d={218,177,144,159};local _r="";for _,_b in ipairs(_d)do _r=_r..string.char(bit32.bxor(_b,_k))end;return _r end)())
+local _1IlllIl1llIII1Il=279
+local _bytecode=_0O11IlOl11l0II1O(_lllIlIIIlIIllll,_1IlllIl1llIII1Il)
+local _decoded=""
+for _i=1,#_bytecode do
+_decoded=_decoded..string.char(_bytecode[_i])
+end
+load(_decoded)()
+local _lIlIllI0lI0lOO = (function() local _ = 5474 * 1438 return _ end)()
+repeat until 84 ~= 3162
+repeat until 705 ~= 2265
+repeat until 0 ~= 7795
+repeat until 0 ~= 6379
+local _0l0ll0l1OllIII = (2093 * 7358 + 946) % 752 == 99
+do local _I0lII1I1IOlOOl = string.rep("hKe9", 2) end
+local _IIOOOI1IlIlI11 = (function() local _ = 4355 * 8760 return _ end)()
+do local _0lIlllIIOIllII = string.rep("jqTA", 5) end
+local _00I1OOI0I1lO0O = (function() local _ = 4211 * 5229 return _ end)()
+local _0l1lIIIlI00lI0 = (4064 * 4691 + 261) % 1055 == 36
+local _0llI100OI11III = (function() local _ = 3979 * 4690 return _ end)()
+local _l1ll0IO1IIllI1 = (8369 * 3179 + 821) % 1013 == 60
+if 0 == 9210 then _O0lIOII0OO00Il = "17XkZUiY" end
+local _IIllOI1lIO0IIO = (6882 * 1661 + 581) % 383 == 28
+repeat until 0 ~= 8509
+do local _IlOO0lllll0I0O = string.rep("rdtL", 5) end
+if false then _1l11OIOIIIO000 = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+local _Il0OI1OI1lO1Ol = (function() local _ = 6491 * 5210 return _ end)()
+repeat until 0 ~= 6548
+if 0 == 9719 then _lI01lIO1OlIII0 = "JilIYWTC" end
+local _O1l0lll00l10l0 = (8229 * 9445 + 387) % 353 == 50
+do local _10OOOIlIll1011 = string.rep("NkPe", 1) end
+do local _OI01OO1III11l1 = string.rep("MmVV", 2) end
+local _III1OI0Il0OIIl = (function() local _ = 1517 * 8554 return _ end)()
+local _11IIl0Il1l0l11 = (6112 * 8246 + 418) % 418 == 97
+local _01lO0ll111l1I0 = (796 * 4276 + 731) % 959 == 65
+do local _lIlIlIlOlllllO = string.rep("iCVM", 5) end
+repeat until 0 ~= 3598
+do local _IIlI00I0l0l0I1 = string.rep("Mzhd", 5) end
+do local _OIlIOlI1Il0000 = string.rep("nMXe", 5) end
+local _II10111II1lOI1 = (function() local _ = 825 * 3584 return _ end)()
+do local _lIOII00IIIIOlI = string.rep("Ge4t", 2) end
+repeat until 188 ~= 7898
+local _I0lI0IlI1Ol0Il = (1482 * 6009 + 468) % 789 == 25
+if 0 == 3355 then _0l0lI00III1ll1 = "6yPPNSqO" end
+do local _O10I0O1IO0OI0I = string.rep("zJJc", 4) end
+do local _IOOO1Ol01lIIlO = string.rep("DEww", 1) end
+repeat until 593 ~= 278
+do local _I0II0OII1l1010 = string.rep("uNYi", 4) end
+repeat until 0 ~= 4382
+local _llI1Il0I1l1llO = (2797 * 6379 + 465) % 642 == 83
+if false then _IO1I0l1l000IlI = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+do local _IIIl0IOI0IOlll = string.rep("Qj33", 4) end
+repeat until 0 ~= 708
+do local _l10OO0lOllO0IO = string.rep("meCy", 1) end
+local _I0I0llOl1Il01O = (4144 * 947 + 946) % 100 == 34
+local _l0ll0OIIIlIlI0 = (1406 * 110 + 20) % 160 == 5
+repeat until 0 ~= 1083
+if false then _Ill101I1I10O0l = (function() local _ = string.rep("e8f3", 3) return _ end)() end
+local _IOI0l0llO001l0 = (function() local _ = 893 * 889 return _ end)()
+repeat until _0III10ll00l101 ~= 793877
+local _lIIIlOIl000OlO = (function() local _ = 456 * 851 return _ end)()
+repeat until _OIlIO1ll0IlIll ~= 388056
+local _I0lllI00ll1I10 = (function() local _ = 576 * 356 return _ end)()
+repeat until _11I0OlOlIlI1lI ~= 205056
+local _IlIII0IllIIllI = (function() local _ = 890 * 1082 return _ end)()
+repeat until _l1OOI00II0lOI1 ~= 962980
+local _I01OlO000Il10l = (function() local _ = 727 * 684 return _ end)()
+repeat until _O0IIO00I1llIOl ~= 497268
+local _II101O1OO1I0lO = (function() local _ = 509 * 400 return _ end)()
+repeat until _10lI11OO0ll1II ~= 203600
+local _IIl1IO10lI1ll1 = (function() local _ = 392 * 668 return _ end)()
+repeat until _111IIIIOIl0lll ~= 261856
+local _O0lIII010l1Ill = (function() local _ = 767 * 652 return _ end)()
+repeat until _llOlIO0011IO1I ~= 500084
+local _lll1Ol1OI0lllO = (function() local _ = 254 * 789 return _ end)()
+repeat until _OlO1llIOIOl11l ~= 200406
+local _IlIOIl1Ol1ll0l = (function() local _ = 395 * 800 return _ end)()
+repeat until _I01IOO00lIOIOl ~= 316000
+local _II0III1IOIIlll = (function() local _ = 768 * 197 return _ end)()
+repeat until _OIlII00l1IOlll ~= 151296
+local _l1lllI1Il00llI = (function() local _ = 390 * 281 return _ end)()
+repeat until _IIl0OI101lI0ll ~= 109590
+local _01I10OI11IIIOI = (function() local _ = 458 * 255 return _ end)()
+repeat until _IlO10IOOll1I1l ~= 116790
+local _00IOllOII11lIl = (function() local _ = 378 * 581 return _ end)()
+repeat until _IIIl0lI1Ill1l1 ~= 219618
+local _II1l00lOlIllOl = (function() local _ = 323 * 936 return _ end)()
+repeat until _ll1IIl0lllOOOI ~= 302328
+local _1OlO011I1I0II0 = (function() local _ = 1096 * 775 return _ end)()
+repeat until _IlOI11100OOl1l ~= 849400
+local _01l0O10OlIlIIl = (function() local _ = 296 * 738 return _ end)()
+repeat until _l11Il1O0IIlll0 ~= 218448
+local _0llI1I010l1O1O = (function() local _ = 943 * 369 return _ end)()
+repeat until _OOlIll1100l0II ~= 347967
+local _OlIl0IOl1lI0I0 = (function() local _ = 681 * 176 return _ end)()
+repeat until _IIlOlOI010Ill0 ~= 119856
+local _II0llOlllIlllI = (function() local _ = 823 * 531 return _ end)()
+repeat until _l0O11lOIIOIlOO ~= 437013
+local _1IlIOO0I0OI0lI = (function() local _ = 239 * 224 return _ end)()
+repeat until _0O1OOOOl1l0lO1 ~= 53536
+local _l0OlOllllI1IlI = (function() local _ = 1007 * 716 return _ end)()
+repeat until _1OlIIIIOOll0Il ~= 721012
+local _00lO1ll10l00I1 = (function() local _ = 959 * 1041 return _ end)()
+repeat until _llIllIOIIOOO1O ~= 998319
+local _0I10O0lIOlOl0l = (function() local _ = 581 * 1009 return _ end)()
+repeat until _11llOIOl0lIlO0 ~= 586229
+local _1O0IOlII00lOll = (function() local _ = 221 * 711 return _ end)()
+repeat until _1l01I10l1lII0l ~= 157131
